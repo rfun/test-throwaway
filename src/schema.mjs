@@ -13,14 +13,20 @@ export function validateFeed(feed) {
   feed.sessions.forEach((s, i) => {
     if (!isStr(s.id)) errors.push(`sessions[${i}].id must be string`);
     if (!isStr(s.title)) errors.push(`sessions[${i}].title must be string`);
-    if (!isStr(s.startsAt)) errors.push(`sessions[${i}].startsAt must be string`);
-    if (!isStr(s.endsAt)) errors.push(`sessions[${i}].endsAt must be string`);
+    if (!isStr(s.startsAt ?? s.starts_at)) errors.push(`sessions[${i}].startsAt or starts_at must be string`);
+    if (!isStr(s.endsAt ?? s.ends_at)) errors.push(`sessions[${i}].endsAt or ends_at must be string`);
     if (!isNum(s.roomId)) errors.push(`sessions[${i}].roomId must be number`);
     if (!isArr(s.speakers)) errors.push(`sessions[${i}].speakers must be array`);
   });
   feed.rooms.forEach((r, i) => {
     if (!isNum(r.id)) errors.push(`rooms[${i}].id must be number`);
-    if (!isStr(r.name)) errors.push(`rooms[${i}].name must be string`);
+    if (r.building !== undefined) {
+      if (!isStr(r.building)) errors.push(`rooms[${i}].building must be string`);
+      if (r.level !== undefined && r.level !== null && !isStr(r.level)) errors.push(`rooms[${i}].level must be string or null`);
+      if (r.room !== undefined && r.room !== null && !isStr(r.room)) errors.push(`rooms[${i}].room must be string or null`);
+    } else if (!isStr(r.name)) {
+      errors.push(`rooms[${i}].name or building must be string`);
+    }
   });
   return errors;
 }

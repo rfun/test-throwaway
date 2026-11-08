@@ -1,5 +1,5 @@
 {
   "fixture": "sessionize-v1",
-  "mode": "ok",
-  "failFirst": 0
+  "mode": "429",
+  "failFirst": 2
 }

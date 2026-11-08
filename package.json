@@ -1,0 +1,13 @@
+{
+  "name": "test-throwaway",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "lint": "node scripts/lint.mjs",
+    "test": "node --test "test/*.test.mjs"",
+    "contract": "node scripts/contract.mjs",
+    "mock": "node mock/server.mjs"
+  }
+}

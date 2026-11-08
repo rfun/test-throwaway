@@ -1,0 +1,2600 @@
+{
+ "sessions": [
+  {
+   "id": "1304040",
+   "title": "Registration + Badge Pick-Up",
+   "description": "Got your badge? Next, make sure to visit any Info Desk for an ID check and a 21+ wristband to redeem your drink tickets at event receptions.\r\n\r\nInfo Desk ID Che",
+   "startsAt": "2026-11-08T08:00:00",
+   "endsAt": "2026-11-08T17:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496289
+   ],
+   "questionAnswers": [],
+   "roomId": 87690,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1289780",
+   "title": "Agentics Day: MCP + Agents Hosted by CNCF - Full Day Event | ALL ACCESS PASS REQUIRED",
+   "description": "Agentics Day: MCP + Agents event is a community-driven event dedicated to advancing the Model Context Protocol, an emerging standard for connecting AI models wi",
+   "startsAt": "2026-11-09T09:00:00",
+   "endsAt": "2026-11-09T17:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496574
+   ],
+   "questionAnswers": [],
+   "roomId": 82948,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1339971",
+   "title": "Hands-On with Apple Open Source Tooling Hosted by Apple | SOLD OUT",
+   "description": "Join Apple engineers to explore two cloud-native open source tools: Pkl for type-safe configuration as code, and Container for building and running Linux contai",
+   "startsAt": "2026-11-09T09:30:00",
+   "endsAt": "2026-11-09T15:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496291
+   ],
+   "questionAnswers": [],
+   "roomId": 88756,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1289915",
+   "title": "Extending the Immutable OS: Adding Tools to Flatcar with Systemd-Sysext",
+   "description": "Immutable operating systems make Kubernetes nodes much more predictable, but they also introduce a problem for new users: a read-only root filesystem. When you ",
+   "startsAt": "2026-11-09T10:43:00",
+   "endsAt": "2026-11-09T10:48:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-001"
+   ],
+   "categoryItems": [
+    496288
+   ],
+   "questionAnswers": [],
+   "roomId": 82957,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289881",
+   "title": "k8gb Is Growing up: Incubating Global Load Balancing for Kubernetes",
+   "description": "k8gb, the Kubernetes Global Balancer, has grown from a CNCF Sandbox project into an Incubating project with a clear mission: make global traffic resilience Kube",
+   "startsAt": "2026-11-09T11:59:00",
+   "endsAt": "2026-11-09T12:04:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-002"
+   ],
+   "categoryItems": [
+    496288
+   ],
+   "questionAnswers": [],
+   "roomId": 82957,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289891",
+   "title": "Is Service Mesh for Everyone?",
+   "description": "For the past decade, service meshes have existed. Starting with Linkerd, it burst into a new type of software with many competitors. But now, in 2026, do we eve",
+   "startsAt": "2026-11-09T12:41:00",
+   "endsAt": "2026-11-09T12:46:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-003"
+   ],
+   "categoryItems": [
+    496288
+   ],
+   "questionAnswers": [],
+   "roomId": 82957,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289897",
+   "title": "What’s New in Kairos, 2026 Edition",
+   "description": "Kairos started as a framework that lets you take familiar Linux distributions like Ubuntu, Fedora, and more, and turn them into immutable, image-based operating",
+   "startsAt": "2026-11-09T14:22:00",
+   "endsAt": "2026-11-09T14:27:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-004"
+   ],
+   "categoryItems": [
+    496288
+   ],
+   "questionAnswers": [],
+   "roomId": 82957,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289910",
+   "title": "ORAS Go v3: Batteries-Included Registry SDK",
+   "description": "oras-go powers ORAS, the ORAS CLI, Helm, Flux, and many tools that push and pull OCI artifacts. v2 made it a real registry client; v3 makes it a batteries-inclu",
+   "startsAt": "2026-11-09T15:31:00",
+   "endsAt": "2026-11-09T15:36:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-005"
+   ],
+   "categoryItems": [
+    496288
+   ],
+   "questionAnswers": [],
+   "roomId": 82957,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289971",
+   "title": "Project Lightning Talk Closing",
+   "description": null,
+   "startsAt": "2026-11-09T16:32:00",
+   "endsAt": "2026-11-09T16:35:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-006"
+   ],
+   "categoryItems": [
+    496288
+   ],
+   "questionAnswers": [],
+   "roomId": 82957,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1295993",
+   "title": "The Harness Is the New Runtime",
+   "description": "Agent harnesses are the dominant pattern for agentic AI on the desktop and will become the dominant runtime for agents on Kubernetes. The hard part is the move:",
+   "startsAt": "2026-11-10T10:15:00",
+   "endsAt": "2026-11-10T10:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-007",
+    "spk-008"
+   ],
+   "categoryItems": [
+    496573
+   ],
+   "questionAnswers": [],
+   "roomId": 82947,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1374035",
+   "title": "Demo Theater: Agentic AI Needs Agentic Infrastructure: Autonomy on Kubernetes",
+   "description": "Autonomous workloads need autonomous infrastructure. See how fractional GPU allocations track real usage, pod requests stay accurate as behavior changes, and Ka",
+   "startsAt": "2026-11-10T10:50:00",
+   "endsAt": "2026-11-10T11:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-009"
+   ],
+   "categoryItems": [
+    518734
+   ],
+   "questionAnswers": [],
+   "roomId": 91537,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1202489",
+   "title": "Securing Rural Colorado with Open Source: Running a Student-Led SOC on Kubernetes",
+   "description": "When a previous supplier dropped support for Colorado in the spring of 2024, the Cybersecurity Center at Metropolitan State University of Denver needed to build",
+   "startsAt": "2026-11-10T11:30:00",
+   "endsAt": "2026-11-10T12:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-010"
+   ],
+   "categoryItems": [
+    465817,
+    465822,
+    496398,
+    523121
+   ],
+   "questionAnswers": [],
+   "roomId": 82949,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1335605",
+   "title": "SIG Instrumentation Introduction and Deep Dive",
+   "description": "Kubernetes SIG Instrumentation is responsible for ensuring high quality and consistent instrumentation across the Kubernetes project. We will begin with an intr",
+   "startsAt": "2026-11-10T11:30:00",
+   "endsAt": "2026-11-10T12:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-011",
+    "spk-012"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87421,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1334785",
+   "title": "AI on Kubernetes Is Just a Pod With a GPU (and That's the Problem)",
+   "description": "Everyone who deploys their first model on Kubernetes discovers the same thing: it really is just a pod. The primitives from your first tutorial still apply and ",
+   "startsAt": "2026-11-10T11:47:00",
+   "endsAt": "2026-11-10T11:59:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-013"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1241594",
+   "title": "No Network? No Problem: How We Designed for Kubernetes Nodes Running in Air-Gapped VPCs",
+   "description": "Konnectivity (apiserver-network-proxy) requires a gRPC connection from agent to server. To protect sensitive workloads from data exfiltration, the speaker's org",
+   "startsAt": "2026-11-10T12:20:00",
+   "endsAt": "2026-11-10T12:50:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-014"
+   ],
+   "categoryItems": [
+    465808,
+    465822,
+    523121
+   ],
+   "questionAnswers": [],
+   "roomId": 82954,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1361545",
+   "title": "Demo Theater: All the Ways to Add OpenTelemetry Without Touching Your Code",
+   "description": "\"OpenTelemetry is the de-facto standard for collecting telemetry from your applications, but adding it manually often feels like a chore. Fortunately, you can g",
+   "startsAt": "2026-11-10T12:30:00",
+   "endsAt": "2026-11-10T12:50:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-015"
+   ],
+   "categoryItems": [
+    518734
+   ],
+   "questionAnswers": [],
+   "roomId": 91537,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1334795",
+   "title": "Extending Envoy for Secure, Scalable Connectivity",
+   "description": "As agentic workloads reshape networking, extensibility has become Envoyproxy’s superpower. Demand is growing for programmable, scalable data planes, with projec",
+   "startsAt": "2026-11-10T13:17:00",
+   "endsAt": "2026-11-10T13:27:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-016",
+    "spk-017"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1371074",
+   "title": "CKA Under Pressure... A Better Way to Practice",
+   "description": "10-Minute Tip Talk",
+   "startsAt": "2026-11-10T14:00:00",
+   "endsAt": "2026-11-10T14:15:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-018"
+   ],
+   "categoryItems": [
+    496290,
+    522573
+   ],
+   "questionAnswers": [],
+   "roomId": 92096,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1239823",
+   "title": "Tracing at Scale: Running a 16 Billion Spans/Hour Pipeline at Nubank",
+   "description": "When off-the-shelf solutions stop scaling, you build your own or break trying.\r\n\r\nAt Nubank, distributed tracing isn't a nice-to-have: it's the backbone of obse",
+   "startsAt": "2026-11-10T14:50:00",
+   "endsAt": "2026-11-10T15:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-019",
+    "spk-020"
+   ],
+   "categoryItems": [
+    465815,
+    465822,
+    496398,
+    523121
+   ],
+   "questionAnswers": [],
+   "roomId": 82948,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1250324",
+   "title": "Beyond One Model per GPU: Agent-Driven Placement for Maximum GPU Utilization on Kubernetes",
+   "description": "Inference clusters today waste expensive accelerators by handing each LLM a whole GPU, even when many models could safely share one. Runtimes such as vLLM and T",
+   "startsAt": "2026-11-10T14:50:00",
+   "endsAt": "2026-11-10T16:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-021",
+    "spk-022",
+    "spk-023",
+    "spk-024",
+    "spk-025"
+   ],
+   "categoryItems": [
+    496283,
+    465819
+   ],
+   "questionAnswers": [],
+   "roomId": 82958,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1333748",
+   "title": "KyvernoCon Opening Remarks",
+   "description": null,
+   "startsAt": "2026-11-10T15:00:00",
+   "endsAt": "2026-11-10T15:05:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-026",
+    "spk-027"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1244963",
+   "title": "Triaging 4,700 Alerts/Month at $0.33 Each: Verkada's MCP Agent on Nine Production Clusters",
+   "description": "Over the last three months Verkada's incident-triage agent handled about 4,700 production alerts a month across nine Kubernetes clusters at $0.33 per investigat",
+   "startsAt": "2026-11-10T15:40:00",
+   "endsAt": "2026-11-10T16:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-028",
+    "spk-029"
+   ],
+   "categoryItems": [
+    465809,
+    465822,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 82952,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289646",
+   "title": "In-Toto: Experiences a Few Million Attestations Later",
+   "description": "Did you know in-toto is an ingredient in your SLSA, and that you can put in-toto in Git? If you verify attestations using Sigstore, it is likely you have in-tot",
+   "startsAt": "2026-11-10T15:40:00",
+   "endsAt": "2026-11-10T16:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-030",
+    "spk-031",
+    "spk-032",
+    "spk-033"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87425,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1370913",
+   "title": "End User Technical Advisory Board (TAB) Town Hall",
+   "description": "Come meet the CNCF’s end-user TAB! Learn about the TAB’s initiatives on reference architectures, project health and feedback. And use this opportunity to ask qu",
+   "startsAt": "2026-11-10T16:35:00",
+   "endsAt": "2026-11-10T17:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    520089
+   ],
+   "questionAnswers": [],
+   "roomId": 90682,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1239772",
+   "title": "Five Stages of Kubernetes Security Grief",
+   "description": "Everyone in this room has been through it. Maybe you're in it right now.\r\nDenial: \"Our namespace isolation is fine.\" Anger: \"Why does everything touch the kerne",
+   "startsAt": "2026-11-10T16:40:00",
+   "endsAt": "2026-11-10T17:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-034",
+    "spk-035"
+   ],
+   "categoryItems": [
+    465814,
+    465822
+   ],
+   "questionAnswers": [],
+   "roomId": 82956,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1360373",
+   "title": "Demo Theater: Allocated ≠ Utilized: Managing GPUs with IBM Kubecost",
+   "description": "AI workloads are putting new pressure on Kubernetes environments. Training and inference can depend on large amounts of GPU capacity, often spread across cluste",
+   "startsAt": "2026-11-10T16:40:00",
+   "endsAt": "2026-11-10T17:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-036"
+   ],
+   "categoryItems": [
+    518734
+   ],
+   "questionAnswers": [],
+   "roomId": 91537,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1248185",
+   "title": "Who Ran Up the Inference Bill? AI Traffic Control with KServe and Gateway API Inference Extensions",
+   "description": "Eventually, every AI platform team asks: Why did my inference bill just explode?\r\n\r\nAvoid being caught off guard by using KServe and Kubernetes Gateway API for ",
+   "startsAt": "2026-11-10T17:30:00",
+   "endsAt": "2026-11-10T18:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-037"
+   ],
+   "categoryItems": [
+    465809,
+    465820,
+    523121
+   ],
+   "questionAnswers": [],
+   "roomId": 82954,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289736",
+   "title": "🎉 #KubeCrawl + #CloudNativeFest",
+   "description": "Welcome, cloud native community! We’re excited to kick off our time in Salt Lake City with you. Join the community and our sponsors from 6:00-7:30PM in the Solu",
+   "startsAt": "2026-11-10T18:00:00",
+   "endsAt": "2026-11-10T19:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496290
+   ],
+   "questionAnswers": [],
+   "roomId": 87451,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1372841",
+   "title": "Human Scale, Agent Scale",
+   "description": null,
+   "startsAt": "2026-11-11T09:00:00",
+   "endsAt": "2026-11-11T09:05:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-038"
+   ],
+   "categoryItems": [
+    496573
+   ],
+   "questionAnswers": [],
+   "roomId": 82947,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1294242",
+   "title": "Sovereign AI Starts at the Traffic Layer",
+   "description": "Cloud native teams spent a decade building traffic infrastructure they control: open source, decentralized, observable, and running on Kubernetes. Then AI arriv",
+   "startsAt": "2026-11-11T10:25:00",
+   "endsAt": "2026-11-11T10:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-039"
+   ],
+   "categoryItems": [
+    496573
+   ],
+   "questionAnswers": [],
+   "roomId": 82947,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1302804",
+   "title": "Closing Remarks",
+   "description": null,
+   "startsAt": "2026-11-11T10:47:00",
+   "endsAt": "2026-11-11T10:48:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496573
+   ],
+   "questionAnswers": [],
+   "roomId": 82947,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1248484",
+   "title": "What Can Your AI Agents Actually Do? Cedar Analysis for MCP Servers",
+   "description": "An MCP (Model Context Protocol) server bridges AI apps to external tools and data sources. The MCP spec recommends servers to use a general-purpose access contr",
+   "startsAt": "2026-11-11T11:00:00",
+   "endsAt": "2026-11-11T11:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-040",
+    "spk-041"
+   ],
+   "categoryItems": [
+    465814,
+    465822
+   ],
+   "questionAnswers": [],
+   "roomId": 82956,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1336587",
+   "title": "Building a Developer Community That the Business Can’t Ignore",
+   "description": "In 2025, Coder set out to build a dedicated community around its open source developer audience: building authentic relationships, growing awareness, and delive",
+   "startsAt": "2026-11-11T11:00:00",
+   "endsAt": "2026-11-11T11:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-042"
+   ],
+   "categoryItems": [
+    496287,
+    465822
+   ],
+   "questionAnswers": [],
+   "roomId": 90387,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1250687",
+   "title": "How Podium Ships 30% of PRs with Autonomous K8s Coding Agents",
+   "description": "30% of merged PRs at Podium require no human author. They are opened and closed by autonomous coding agents.\r\n\r\nPodium built a Kubernetes-native agent orchestra",
+   "startsAt": "2026-11-11T11:50:00",
+   "endsAt": "2026-11-11T12:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-043"
+   ],
+   "categoryItems": [
+    465809,
+    465822,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 82951,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289673",
+   "title": "SIG-Node: Intro and Deep Dive",
+   "description": "This session covers the latest updates in the Kubernetes Node subsystem. Come to learn how Nodes become more flexible and Pods more dynamic. SIG Node owns compo",
+   "startsAt": "2026-11-11T11:50:00",
+   "endsAt": "2026-11-11T12:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-044",
+    "spk-045",
+    "spk-046",
+    "spk-047",
+    "spk-048"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87424,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1333702",
+   "title": "Kubeflow Summit Opening Remarks",
+   "description": null,
+   "startsAt": "2026-11-11T12:45:00",
+   "endsAt": "2026-11-11T12:50:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-049"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1246812",
+   "title": "Beyond HPA: An Explainable, Agentic Autoscaler for Kubernetes",
+   "description": "Kubernetes HPA scales on CPU and memory — but production incidents start in logs: connection-pool exhaustion, timeout storms, retry cascades. By the time the me",
+   "startsAt": "2026-11-11T13:20:00",
+   "endsAt": "2026-11-11T14:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-050"
+   ],
+   "categoryItems": [
+    496285,
+    465819,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 87451,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1333709",
+   "title": "Building Reproducible AgentOps Pipelines with Kubeflow and MLflow",
+   "description": "The role of AI agents across the software development lifecycle has exploded recently – but every step of an agent feedback loop incurs inference costs that can",
+   "startsAt": "2026-11-11T13:40:00",
+   "endsAt": "2026-11-11T13:53:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-051",
+    "spk-052"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1250982",
+   "title": "Progressive Delivery for Trust: How Agents Earn the Right to Merge",
+   "description": "As agentic systems become more effective, human review becomes the next scaling bottleneck. This talk presents a Kubernetes-native model of earned autonomy, whe",
+   "startsAt": "2026-11-11T14:20:00",
+   "endsAt": "2026-11-11T14:50:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-053"
+   ],
+   "categoryItems": [
+    465811,
+    465822,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 82949,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289725",
+   "title": "Kubernetes Localization in the AI Era: Contributors Still Matter",
+   "description": "SIG Docs Localization has helped Kubernetes grow globally by welcoming users and contributors in their own languages. K8s.io now supports 17 languages, includin",
+   "startsAt": "2026-11-11T14:20:00",
+   "endsAt": "2026-11-11T14:50:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-054",
+    "spk-055",
+    "spk-056",
+    "spk-057"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87422,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1246398",
+   "title": "Your Quickstart is Broken – AI Agents as Synthetic New Users",
+   "description": "Documentation drifts silently. A 2025 GitHub Codespaces update bumped the minimum Docker version and broke every tutorial for Drasi, a CNCF project, at once. Ma",
+   "startsAt": "2026-11-11T14:41:00",
+   "endsAt": "2026-11-11T14:46:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-058"
+   ],
+   "categoryItems": [
+    496282,
+    465822
+   ],
+   "questionAnswers": [],
+   "roomId": 92181,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1247552",
+   "title": "From Pod Creation to First Packet",
+   "description": "What actually happens before a Kubernetes Pod can send or receive traffic?\r\n\r\nBefore the first packet is ever transmitted, Kubernetes performs a complex series ",
+   "startsAt": "2026-11-11T15:10:00",
+   "endsAt": "2026-11-11T15:40:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-059"
+   ],
+   "categoryItems": [
+    465813,
+    465820
+   ],
+   "questionAnswers": [],
+   "roomId": 92180,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289695",
+   "title": "Gateway API Project Update: – Building the Future of Traffic",
+   "description": "As Gateway API adoption hits an all-time high, the journey is just getting started. Are you ready for what comes next on Kubernetes traffic management?\r\n\r\nJoin ",
+   "startsAt": "2026-11-11T15:10:00",
+   "endsAt": "2026-11-11T15:40:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-060",
+    "spk-061",
+    "spk-062",
+    "spk-063",
+    "spk-064"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87422,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289743",
+   "title": "☕ Coffee Break",
+   "description": null,
+   "startsAt": "2026-11-11T15:40:00",
+   "endsAt": "2026-11-11T16:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496575
+   ],
+   "questionAnswers": [],
+   "roomId": 87451,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1248120",
+   "title": "RBAC as a Platform Capability: Applying Platform Engineering to Kubernetes Access",
+   "description": "As Kubernetes adoption scaled across PlayStation, our original namespace and RBAC workflow began to struggle to scale with the operational complexity. Merge con",
+   "startsAt": "2026-11-11T16:10:00",
+   "endsAt": "2026-11-11T16:40:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-065",
+    "spk-066"
+   ],
+   "categoryItems": [
+    465811,
+    465819,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 82949,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289664",
+   "title": "Fighting Fire with Fire: Scaling KubeEdge Vulnerability Management in the New AI Era",
+   "description": "The rise of AI-powered security scanners has fundamentally disrupted open-source maintenance. Vulnerabilities across edge-computing components, from runtime bug",
+   "startsAt": "2026-11-11T16:10:00",
+   "endsAt": "2026-11-11T16:40:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-067",
+    "spk-068",
+    "spk-069",
+    "spk-070"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87421,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1362689",
+   "title": "Demo Theater: Day 2 for Stateful Kubernetes: Data Services You Can See",
+   "description": "Installing a CSI driver takes an afternoon. Living with it takes years. Day 2 is where stateful Kubernetes gets hard: a PVC fills up at 2 a.m., a namespace need",
+   "startsAt": "2026-11-11T16:25:00",
+   "endsAt": "2026-11-11T16:45:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-071",
+    "spk-072"
+   ],
+   "categoryItems": [
+    518734
+   ],
+   "questionAnswers": [],
+   "roomId": 91537,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1248368",
+   "title": "Reduce vLLM Pod Cold Starts with KServe Kernel Caching",
+   "description": "What is causing slow cold starts in Kubernetes-based LLM serving systems beyond model loading?\r\nIn Kubernetes-based LLM serving, we often blame cold starts enti",
+   "startsAt": "2026-11-11T17:00:00",
+   "endsAt": "2026-11-11T17:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-073",
+    "spk-074"
+   ],
+   "categoryItems": [
+    465809,
+    465822,
+    523121
+   ],
+   "questionAnswers": [],
+   "roomId": 82955,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1292214",
+   "title": "Coat + Bag Check",
+   "description": null,
+   "startsAt": "2026-11-12T08:00:00",
+   "endsAt": "2026-11-12T16:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [],
+   "categoryItems": [
+    496289
+   ],
+   "questionAnswers": [],
+   "roomId": 87691,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1294245",
+   "title": "Cloud Native Without Limits: What Can AI Agents Do for Us?",
+   "description": "In Amsterdam, we explored what cloud native could do with AI agents, MCP, and a drone controlled through natural language. Now it's time for Drone 2.\r\nWhat happ",
+   "startsAt": "2026-11-12T10:10:00",
+   "endsAt": "2026-11-12T10:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-075"
+   ],
+   "categoryItems": [
+    496573
+   ],
+   "questionAnswers": [],
+   "roomId": 82947,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1247970",
+   "title": "Managing Network Security in Multi-Tenant Environments with Istio and Cilium",
+   "description": "Managing connections in a Kubernetes cluster can be tricky. This can get even more difficult when you are trying to manage connections for a fleet of Kubernetes",
+   "startsAt": "2026-11-12T11:00:00",
+   "endsAt": "2026-11-12T11:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-076",
+    "spk-077"
+   ],
+   "categoryItems": [
+    465808,
+    465822,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 82948,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1243227",
+   "title": "The Most Boring Talk at KubeCon  - And the One That Will Save Your Job",
+   "description": "Your IDP — Backstage, ArgoCD, Crossplane, Kyverno - is a chain of dependencies & every single link will break. When it does, your devs stare at a loading spinne",
+   "startsAt": "2026-11-12T11:00:00",
+   "endsAt": "2026-11-12T12:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-078",
+    "spk-079",
+    "spk-026",
+    "spk-080"
+   ],
+   "categoryItems": [
+    496283,
+    465819
+   ],
+   "questionAnswers": [],
+   "roomId": 82958,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1334866",
+   "title": "From GPU to Fleet. The llm-d KV Cache Hierarchy",
+   "description": "KV cache is the most constrained resource in LLM serving. Keeping it only in GPU memory means every eviction discards expensive computation. But the largest cac",
+   "startsAt": "2026-11-12T11:15:00",
+   "endsAt": "2026-11-12T11:35:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-081",
+    "spk-082"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1248779",
+   "title": "From Load Balancer Sprawl to Multicluster Service Discovery",
+   "description": "As Kubernetes platforms scale to multiple clusters, teams often solve cross-cluster connectivity by adding cloud load balancers between clusters. This approach ",
+   "startsAt": "2026-11-12T11:50:00",
+   "endsAt": "2026-11-12T12:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-083",
+    "spk-084"
+   ],
+   "categoryItems": [
+    465808,
+    465819
+   ],
+   "questionAnswers": [],
+   "roomId": 82955,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1336061",
+   "title": "DisaggregatedSet Meets Multi-EPP: Coordinating llm-d at Scale in production",
+   "description": "At Mistral, we run llm-d at scale for our users, powering disaggregated serving with control flow and KV Cache-aware routing across multiple EPPs. We share how ",
+   "startsAt": "2026-11-12T12:10:00",
+   "endsAt": "2026-11-12T12:30:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-085",
+    "spk-086"
+   ],
+   "categoryItems": [
+    512413
+   ],
+   "questionAnswers": [],
+   "roomId": 90363,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": false
+  },
+  {
+   "id": "1249553",
+   "title": "BurritoBot Said Let's Dance, the Platform Said No",
+   "description": "In 2026, a developer asked a burrito chain's chatbot to reverse a linked list before ordering their meal. The bot delivered a solution, then asked what they wan",
+   "startsAt": "2026-11-12T13:50:00",
+   "endsAt": "2026-11-12T14:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-087",
+    "spk-088"
+   ],
+   "categoryItems": [
+    465811,
+    465822,
+    496398
+   ],
+   "questionAnswers": [],
+   "roomId": 82949,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289721",
+   "title": "Built for What’s Next: Backstage’s Role in AI-Assisted Development",
+   "description": "Backstage has spent the last several years rebuilding its frontend and backend foundations. Those systems are now mature enough to change not only how we build ",
+   "startsAt": "2026-11-12T13:50:00",
+   "endsAt": "2026-11-12T14:20:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-089",
+    "spk-090"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87421,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1237843",
+   "title": "From Black-Box to Auditable AI-Grid: A Deterministic Governance Layer with Hybrid Cloud",
+   "description": "AI is moving into the operating core of communication networks: control loops, spectrum allocation, network slicing with QoS, and customer-issue automation, und",
+   "startsAt": "2026-11-12T14:40:00",
+   "endsAt": "2026-11-12T15:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-091",
+    "spk-092"
+   ],
+   "categoryItems": [
+    465809,
+    465820,
+    496398,
+    523121
+   ],
+   "questionAnswers": [],
+   "roomId": 82950,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1289720",
+   "title": "10 Years of Minikube and the Future of Millions of Users",
+   "description": "Originally developed at Google 10 years ago, minikube has become the most popular local Kubernetes tool with more than 15M github downloads. overview of journey",
+   "startsAt": "2026-11-12T14:40:00",
+   "endsAt": "2026-11-12T15:10:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-093"
+   ],
+   "categoryItems": [
+    496153
+   ],
+   "questionAnswers": [],
+   "roomId": 87423,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  },
+  {
+   "id": "1244000",
+   "title": "Here be DRAgons: Bringing native zero-copy networking to Pods with Cilium and netkit",
+   "description": "Kubernetes Pods have traditionally been blocked from using hardware-level networking acceleration due to namespace isolation. Cilium is changing that by bringin",
+   "startsAt": "2026-11-12T15:30:00",
+   "endsAt": "2026-11-12T16:00:00",
+   "isServiceSession": false,
+   "isPlenumSession": false,
+   "speakers": [
+    "spk-094",
+    "spk-095"
+   ],
+   "categoryItems": [
+    465808,
+    465819
+   ],
+   "questionAnswers": [],
+   "roomId": 82954,
+   "liveUrl": null,
+   "recordingUrl": null,
+   "status": "Accepted",
+   "isInformed": true,
+   "isConfirmed": true
+  }
+ ],
+ "speakers": [
+  {
+   "id": "spk-001",
+   "firstName": "Speaker",
+   "lastName": "001",
+   "fullName": "Speaker 001",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-002",
+   "firstName": "Speaker",
+   "lastName": "002",
+   "fullName": "Speaker 002",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-003",
+   "firstName": "Speaker",
+   "lastName": "003",
+   "fullName": "Speaker 003",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-004",
+   "firstName": "Speaker",
+   "lastName": "004",
+   "fullName": "Speaker 004",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-005",
+   "firstName": "Speaker",
+   "lastName": "005",
+   "fullName": "Speaker 005",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-006",
+   "firstName": "Speaker",
+   "lastName": "006",
+   "fullName": "Speaker 006",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-007",
+   "firstName": "Speaker",
+   "lastName": "007",
+   "fullName": "Speaker 007",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-008",
+   "firstName": "Speaker",
+   "lastName": "008",
+   "fullName": "Speaker 008",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-009",
+   "firstName": "Speaker",
+   "lastName": "009",
+   "fullName": "Speaker 009",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-010",
+   "firstName": "Speaker",
+   "lastName": "010",
+   "fullName": "Speaker 010",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-011",
+   "firstName": "Speaker",
+   "lastName": "011",
+   "fullName": "Speaker 011",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-012",
+   "firstName": "Speaker",
+   "lastName": "012",
+   "fullName": "Speaker 012",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-013",
+   "firstName": "Speaker",
+   "lastName": "013",
+   "fullName": "Speaker 013",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-014",
+   "firstName": "Speaker",
+   "lastName": "014",
+   "fullName": "Speaker 014",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-015",
+   "firstName": "Speaker",
+   "lastName": "015",
+   "fullName": "Speaker 015",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-016",
+   "firstName": "Speaker",
+   "lastName": "016",
+   "fullName": "Speaker 016",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-017",
+   "firstName": "Speaker",
+   "lastName": "017",
+   "fullName": "Speaker 017",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-018",
+   "firstName": "Speaker",
+   "lastName": "018",
+   "fullName": "Speaker 018",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-019",
+   "firstName": "Speaker",
+   "lastName": "019",
+   "fullName": "Speaker 019",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-020",
+   "firstName": "Speaker",
+   "lastName": "020",
+   "fullName": "Speaker 020",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-021",
+   "firstName": "Speaker",
+   "lastName": "021",
+   "fullName": "Speaker 021",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-022",
+   "firstName": "Speaker",
+   "lastName": "022",
+   "fullName": "Speaker 022",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-023",
+   "firstName": "Speaker",
+   "lastName": "023",
+   "fullName": "Speaker 023",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-024",
+   "firstName": "Speaker",
+   "lastName": "024",
+   "fullName": "Speaker 024",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-025",
+   "firstName": "Speaker",
+   "lastName": "025",
+   "fullName": "Speaker 025",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-026",
+   "firstName": "Speaker",
+   "lastName": "026",
+   "fullName": "Speaker 026",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-027",
+   "firstName": "Speaker",
+   "lastName": "027",
+   "fullName": "Speaker 027",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-028",
+   "firstName": "Speaker",
+   "lastName": "028",
+   "fullName": "Speaker 028",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-029",
+   "firstName": "Speaker",
+   "lastName": "029",
+   "fullName": "Speaker 029",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-030",
+   "firstName": "Speaker",
+   "lastName": "030",
+   "fullName": "Speaker 030",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-031",
+   "firstName": "Speaker",
+   "lastName": "031",
+   "fullName": "Speaker 031",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-032",
+   "firstName": "Speaker",
+   "lastName": "032",
+   "fullName": "Speaker 032",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-033",
+   "firstName": "Speaker",
+   "lastName": "033",
+   "fullName": "Speaker 033",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-034",
+   "firstName": "Speaker",
+   "lastName": "034",
+   "fullName": "Speaker 034",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-035",
+   "firstName": "Speaker",
+   "lastName": "035",
+   "fullName": "Speaker 035",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-036",
+   "firstName": "Speaker",
+   "lastName": "036",
+   "fullName": "Speaker 036",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-037",
+   "firstName": "Speaker",
+   "lastName": "037",
+   "fullName": "Speaker 037",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-038",
+   "firstName": "Speaker",
+   "lastName": "038",
+   "fullName": "Speaker 038",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-039",
+   "firstName": "Speaker",
+   "lastName": "039",
+   "fullName": "Speaker 039",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-040",
+   "firstName": "Speaker",
+   "lastName": "040",
+   "fullName": "Speaker 040",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-041",
+   "firstName": "Speaker",
+   "lastName": "041",
+   "fullName": "Speaker 041",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-042",
+   "firstName": "Speaker",
+   "lastName": "042",
+   "fullName": "Speaker 042",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-043",
+   "firstName": "Speaker",
+   "lastName": "043",
+   "fullName": "Speaker 043",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-044",
+   "firstName": "Speaker",
+   "lastName": "044",
+   "fullName": "Speaker 044",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-045",
+   "firstName": "Speaker",
+   "lastName": "045",
+   "fullName": "Speaker 045",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-046",
+   "firstName": "Speaker",
+   "lastName": "046",
+   "fullName": "Speaker 046",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-047",
+   "firstName": "Speaker",
+   "lastName": "047",
+   "fullName": "Speaker 047",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-048",
+   "firstName": "Speaker",
+   "lastName": "048",
+   "fullName": "Speaker 048",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-049",
+   "firstName": "Speaker",
+   "lastName": "049",
+   "fullName": "Speaker 049",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-050",
+   "firstName": "Speaker",
+   "lastName": "050",
+   "fullName": "Speaker 050",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-051",
+   "firstName": "Speaker",
+   "lastName": "051",
+   "fullName": "Speaker 051",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-052",
+   "firstName": "Speaker",
+   "lastName": "052",
+   "fullName": "Speaker 052",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-053",
+   "firstName": "Speaker",
+   "lastName": "053",
+   "fullName": "Speaker 053",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-054",
+   "firstName": "Speaker",
+   "lastName": "054",
+   "fullName": "Speaker 054",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-055",
+   "firstName": "Speaker",
+   "lastName": "055",
+   "fullName": "Speaker 055",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-056",
+   "firstName": "Speaker",
+   "lastName": "056",
+   "fullName": "Speaker 056",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-057",
+   "firstName": "Speaker",
+   "lastName": "057",
+   "fullName": "Speaker 057",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-058",
+   "firstName": "Speaker",
+   "lastName": "058",
+   "fullName": "Speaker 058",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-059",
+   "firstName": "Speaker",
+   "lastName": "059",
+   "fullName": "Speaker 059",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-060",
+   "firstName": "Speaker",
+   "lastName": "060",
+   "fullName": "Speaker 060",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-061",
+   "firstName": "Speaker",
+   "lastName": "061",
+   "fullName": "Speaker 061",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-062",
+   "firstName": "Speaker",
+   "lastName": "062",
+   "fullName": "Speaker 062",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-063",
+   "firstName": "Speaker",
+   "lastName": "063",
+   "fullName": "Speaker 063",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-064",
+   "firstName": "Speaker",
+   "lastName": "064",
+   "fullName": "Speaker 064",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-065",
+   "firstName": "Speaker",
+   "lastName": "065",
+   "fullName": "Speaker 065",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-066",
+   "firstName": "Speaker",
+   "lastName": "066",
+   "fullName": "Speaker 066",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-067",
+   "firstName": "Speaker",
+   "lastName": "067",
+   "fullName": "Speaker 067",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-068",
+   "firstName": "Speaker",
+   "lastName": "068",
+   "fullName": "Speaker 068",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-069",
+   "firstName": "Speaker",
+   "lastName": "069",
+   "fullName": "Speaker 069",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-070",
+   "firstName": "Speaker",
+   "lastName": "070",
+   "fullName": "Speaker 070",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-071",
+   "firstName": "Speaker",
+   "lastName": "071",
+   "fullName": "Speaker 071",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-072",
+   "firstName": "Speaker",
+   "lastName": "072",
+   "fullName": "Speaker 072",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-073",
+   "firstName": "Speaker",
+   "lastName": "073",
+   "fullName": "Speaker 073",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-074",
+   "firstName": "Speaker",
+   "lastName": "074",
+   "fullName": "Speaker 074",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-075",
+   "firstName": "Speaker",
+   "lastName": "075",
+   "fullName": "Speaker 075",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-076",
+   "firstName": "Speaker",
+   "lastName": "076",
+   "fullName": "Speaker 076",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-077",
+   "firstName": "Speaker",
+   "lastName": "077",
+   "fullName": "Speaker 077",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-078",
+   "firstName": "Speaker",
+   "lastName": "078",
+   "fullName": "Speaker 078",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-079",
+   "firstName": "Speaker",
+   "lastName": "079",
+   "fullName": "Speaker 079",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-080",
+   "firstName": "Speaker",
+   "lastName": "080",
+   "fullName": "Speaker 080",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-081",
+   "firstName": "Speaker",
+   "lastName": "081",
+   "fullName": "Speaker 081",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-082",
+   "firstName": "Speaker",
+   "lastName": "082",
+   "fullName": "Speaker 082",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-083",
+   "firstName": "Speaker",
+   "lastName": "083",
+   "fullName": "Speaker 083",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-084",
+   "firstName": "Speaker",
+   "lastName": "084",
+   "fullName": "Speaker 084",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-085",
+   "firstName": "Speaker",
+   "lastName": "085",
+   "fullName": "Speaker 085",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-086",
+   "firstName": "Speaker",
+   "lastName": "086",
+   "fullName": "Speaker 086",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-087",
+   "firstName": "Speaker",
+   "lastName": "087",
+   "fullName": "Speaker 087",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-088",
+   "firstName": "Speaker",
+   "lastName": "088",
+   "fullName": "Speaker 088",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-089",
+   "firstName": "Speaker",
+   "lastName": "089",
+   "fullName": "Speaker 089",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-090",
+   "firstName": "Speaker",
+   "lastName": "090",
+   "fullName": "Speaker 090",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-091",
+   "firstName": "Speaker",
+   "lastName": "091",
+   "fullName": "Speaker 091",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-092",
+   "firstName": "Speaker",
+   "lastName": "092",
+   "fullName": "Speaker 092",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-093",
+   "firstName": "Speaker",
+   "lastName": "093",
+   "fullName": "Speaker 093",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-094",
+   "firstName": "Speaker",
+   "lastName": "094",
+   "fullName": "Speaker 094",
+   "isTopSpeaker": false,
+   "sessions": []
+  },
+  {
+   "id": "spk-095",
+   "firstName": "Speaker",
+   "lastName": "095",
+   "fullName": "Speaker 095",
+   "isTopSpeaker": false,
+   "sessions": []
+  }
+ ],
+ "questions": [
+  {
+   "id": 128829,
+   "question": "Company",
+   "questionType": "Short_Text",
+   "sort": 32
+  },
+  {
+   "id": 128830,
+   "question": "Speaker Title",
+   "questionType": "Short_Text",
+   "sort": 31
+  },
+  {
+   "id": 137003,
+   "question": "Presentation Slides",
+   "questionType": "File_upload",
+   "sort": 55
+  },
+  {
+   "id": 137004,
+   "question": "GitHub Repository",
+   "questionType": "Web_address",
+   "sort": 56
+  },
+  {
+   "id": 137005,
+   "question": "Project Demo",
+   "questionType": "Web_address",
+   "sort": 57
+  },
+  {
+   "id": 137006,
+   "question": "Website",
+   "questionType": "Web_address",
+   "sort": 58
+  }
+ ],
+ "categories": [
+  {
+   "id": 128813,
+   "title": "All Sessions",
+   "items": [
+    {
+     "id": 465809,
+     "name": "AI Inference + Agentic",
+     "sort": 1
+    },
+    {
+     "id": 465818,
+     "name": "Application Development + Delivery",
+     "sort": 2
+    },
+    {
+     "id": 465817,
+     "name": "Cloud Native Experience",
+     "sort": 3
+    },
+    {
+     "id": 465813,
+     "name": "Cloud Native Novice",
+     "sort": 4
+    },
+    {
+     "id": 465808,
+     "name": "Connectivity",
+     "sort": 5
+    },
+    {
+     "id": 465810,
+     "name": "Data Processing + Storage",
+     "sort": 6
+    },
+    {
+     "id": 465816,
+     "name": "Emerging + Advanced",
+     "sort": 7
+    },
+    {
+     "id": 465815,
+     "name": "Observability",
+     "sort": 8
+    },
+    {
+     "id": 465812,
+     "name": "Operations + Performance",
+     "sort": 9
+    },
+    {
+     "id": 465811,
+     "name": "Platform Engineering",
+     "sort": 10
+    },
+    {
+     "id": 465814,
+     "name": "Security",
+     "sort": 11
+    },
+    {
+     "id": 496153,
+     "name": "Maintainer Track",
+     "sort": 12
+    },
+    {
+     "id": 496282,
+     "name": "⚡ Lightning Talks",
+     "sort": 13
+    },
+    {
+     "id": 496283,
+     "name": "📚 Tutorials",
+     "sort": 14
+    },
+    {
+     "id": 496284,
+     "name": "🚨 Contribfest",
+     "sort": 15
+    },
+    {
+     "id": 496285,
+     "name": "🪧 Poster Sessions",
+     "sort": 16
+    },
+    {
+     "id": 496286,
+     "name": "Experiences",
+     "sort": 17
+    },
+    {
+     "id": 496287,
+     "name": "Inclusion + Accessibility",
+     "sort": 18
+    },
+    {
+     "id": 515265,
+     "name": "Project Opportunities",
+     "sort": 19
+    },
+    {
+     "id": 496288,
+     "name": "Project Lightning Talks",
+     "sort": 20
+    },
+    {
+     "id": 514861,
+     "name": "Project Pavilion Tours",
+     "sort": 21
+    },
+    {
+     "id": 520089,
+     "name": "Project Pavilion Stage",
+     "sort": 22
+    },
+    {
+     "id": 496289,
+     "name": "Registration",
+     "sort": 23
+    },
+    {
+     "id": 496290,
+     "name": "Solutions Showcase",
+     "sort": 24
+    },
+    {
+     "id": 496291,
+     "name": "Sponsor-hosted Co-located Events",
+     "sort": 25
+    },
+    {
+     "id": 496573,
+     "name": "Keynote Sessions",
+     "sort": 26
+    },
+    {
+     "id": 496574,
+     "name": "CNCF-hosted Co-located Events",
+     "sort": 27
+    },
+    {
+     "id": 496575,
+     "name": "Breaks",
+     "sort": 28
+    },
+    {
+     "id": 512413,
+     "name": "Cloud Native Theater",
+     "sort": 29
+    },
+    {
+     "id": 518734,
+     "name": "Sponsor Demo Theater",
+     "sort": 30
+    }
+   ],
+   "sort": 1,
+   "type": "session"
+  },
+  {
+   "id": 128814,
+   "title": "Audience Level",
+   "items": [
+    {
+     "id": 465820,
+     "name": "Beginner",
+     "sort": 1
+    },
+    {
+     "id": 465819,
+     "name": "Advanced",
+     "sort": 2
+    },
+    {
+     "id": 465822,
+     "name": "Any Level",
+     "sort": 3
+    }
+   ],
+   "sort": 3,
+   "type": "session"
+  },
+  {
+   "id": 136947,
+   "title": "End User Programming",
+   "items": [
+    {
+     "id": 496398,
+     "name": "End User Talk",
+     "sort": 1
+    }
+   ],
+   "sort": 74,
+   "type": "session"
+  },
+  {
+   "id": 144172,
+   "title": "Solutions Showcase Programming",
+   "items": [
+    {
+     "id": 522573,
+     "name": "Learning Lounge",
+     "sort": 1
+    }
+   ],
+   "sort": 75,
+   "type": "session"
+  },
+  {
+   "id": 144375,
+   "title": "Presentation Slides",
+   "items": [
+    {
+     "id": 523121,
+     "name": "Slides Attached",
+     "sort": 1
+    }
+   ],
+   "sort": 80,
+   "type": "session"
+  }
+ ],
+ "rooms": [
+  {
+   "id": 82947,
+   "name": "Salt Palace | Level 1 | Hall DE",
+   "sort": 0
+  },
+  {
+   "id": 92180,
+   "name": "Hyatt Regency | Level 4 | Regency Ballroom B",
+   "sort": 1
+  },
+  {
+   "id": 82948,
+   "name": "Salt Palace | Level 1 | Grand Ballroom ACE",
+   "sort": 2
+  },
+  {
+   "id": 82949,
+   "name": "Salt Palace | Level 1 | Grand Ballroom BDF",
+   "sort": 3
+  },
+  {
+   "id": 82950,
+   "name": "Salt Palace | Level 1 | Grand Ballroom H",
+   "sort": 4
+  },
+  {
+   "id": 82951,
+   "name": "Salt Palace | Level 1 | Grand Ballroom GI",
+   "sort": 5
+  },
+  {
+   "id": 82952,
+   "name": "Salt Palace | Level 1 | 151 ",
+   "sort": 6
+  },
+  {
+   "id": 82953,
+   "name": "Salt Palace | Level 2 | 255 BC",
+   "sort": 7
+  },
+  {
+   "id": 82954,
+   "name": "Salt Palace | Level 2 | 255 EF",
+   "sort": 8
+  },
+  {
+   "id": 82955,
+   "name": "Hyatt Regency | Level 2 | Salt Lake Ballroom C",
+   "sort": 9
+  },
+  {
+   "id": 82956,
+   "name": "Hyatt Regency | Level 2 | Salt Lake Ballroom DE",
+   "sort": 10
+  },
+  {
+   "id": 82957,
+   "name": "Hyatt Regency | Level 4 | Regency Ballroom B-D",
+   "sort": 11
+  },
+  {
+   "id": 92181,
+   "name": "Hyatt Regency | Level 4 | Regency Ballroom CD",
+   "sort": 12
+  },
+  {
+   "id": 82958,
+   "name": "Hyatt Regency | Level 4 | Regency Ballroom A",
+   "sort": 13
+  },
+  {
+   "id": 87421,
+   "name": "Salt Palace | Level 2 | 250 A-C",
+   "sort": 14
+  },
+  {
+   "id": 87422,
+   "name": "Salt Palace | Level 2 | 250 D-F",
+   "sort": 15
+  },
+  {
+   "id": 87423,
+   "name": "Salt Palace | Level 2 | 251 A-C",
+   "sort": 16
+  },
+  {
+   "id": 87424,
+   "name": "Salt Palace | Level 2 | 251 D-F",
+   "sort": 17
+  },
+  {
+   "id": 87425,
+   "name": "Salt Palace | Level 2 | 254",
+   "sort": 18
+  },
+  {
+   "id": 87426,
+   "name": "Salt Palace | Level 2 | 255 A",
+   "sort": 19
+  },
+  {
+   "id": 87427,
+   "name": "Salt Palace | Level 2 | 255 D",
+   "sort": 20
+  },
+  {
+   "id": 87451,
+   "name": "Salt Palace | Level 1 | Halls A-C, Halls 1-5",
+   "sort": 21
+  },
+  {
+   "id": 90363,
+   "name": "Salt Palace | Level 1 | Solutions Showcase | Halls 5 | Cosmic Canyon Zone",
+   "sort": 22
+  },
+  {
+   "id": 87503,
+   "name": "Room TBD",
+   "sort": 23
+  },
+  {
+   "id": 87690,
+   "name": "Salt Palace | 200 South Entrance (South)",
+   "sort": 24
+  },
+  {
+   "id": 87691,
+   "name": "Salt Palace | Level 2 | East Registration",
+   "sort": 25
+  },
+  {
+   "id": 88637,
+   "name": "Hyatt Regency | Level 5 | Capitol Reef",
+   "sort": 26
+  },
+  {
+   "id": 88756,
+   "name": "Off-Site Location",
+   "sort": 27
+  },
+  {
+   "id": 90387,
+   "name": "Salt Palace | Level 1 | Grand Ballroom J",
+   "sort": 28
+  },
+  {
+   "id": 90682,
+   "name": "Salt Palace | Level 1 | Solutions Showcase | Hall 5 | Cosmic Canyon Zone | Project Pavilion",
+   "sort": 29
+  },
+  {
+   "id": 90804,
+   "name": "Salt Palace | Level 2 | Upper Mezzanine",
+   "sort": 30
+  },
+  {
+   "id": 91537,
+   "name": "Salt Palace | Level 1 | Solutions Showcase | Hall 1 | Alpine Overlook Zone | Demo Theater",
+   "sort": 31
+  },
+  {
+   "id": 92005,
+   "name": "Hyatt Regency Lobby",
+   "sort": 32
+  },
+  {
+   "id": 92006,
+   "name": "Hyatt Regency | Level 3 | Park City",
+   "sort": 33
+  },
+  {
+   "id": 92007,
+   "name": "Salt Palace | Level 1 | North Grand Ballroom Foyer",
+   "sort": 34
+  },
+  {
+   "id": 92016,
+   "name": "Salt Palace | Level 1 | Solutions Showcase | Hall 1 | Alpine Overlook Zone | Network Nook",
+   "sort": 35
+  },
+  {
+   "id": 92096,
+   "name": "Salt Palace | Level 1 | Solutions Showcase | Hall B | Starlight Summit Zone",
+   "sort": 36
+  }
+ ]
+}

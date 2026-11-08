@@ -1,0 +1,44 @@
+name: CI
+permissions:
+  contents: read
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+jobs:
+  lint-unit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: 22
+      - run: npm run lint
+      - run: npm test
+
+  schedule-feed-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-node@v7.1.0
+        with:
+          node-version: 22
+      - name: Prepare expired certificate (tls-expired chaos mode only)
+        run: |
+          if [ "$(node -p "require('./chaos.json').mode")" = "tls-expired" ]; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq faketime
+            ./scripts/gen-expired-cert.sh
+            echo "NODE_EXTRA_CA_CERTS=$PWD/.certs/cert.pem" >> "$GITHUB_ENV"
+            echo "FEED_URL=https://127.0.0.1:8089/api/schedule" >> "$GITHUB_ENV"
+          fi
+      - name: Start mock upstream
+        run: |
+          npm run mock > mock.log 2>&1 &
+          for i in $(seq 1 20); do
+            curl -sk http://127.0.0.1:8089/healthz https://127.0.0.1:8089/healthz >/dev/null 2>&1 && break
+            sleep 0.5
+          done
+          cat mock.log
+      - name: Contract check against upstream
+        run: npm run contract

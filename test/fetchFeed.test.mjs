@@ -29,17 +29,50 @@ test("retries rate limits and honors Retry-After", async () => {
   }
 });
 
-test("does not retry non-retryable responses", async () => {
+test("caps Retry-After delays and cancels failed response bodies", async () => {
   const originalFetch = globalThis.fetch;
+  const originalSetTimeout = globalThis.setTimeout;
+  const delays = [];
+  let failedResponse;
   let calls = 0;
   globalThis.fetch = async () => {
     calls++;
-    return new Response("unauthorized", { status: 401 });
+    if (calls === 1) {
+      failedResponse = new Response("rate limited", { status: 429, headers: { "Retry-After": "3600" } });
+      return failedResponse;
+    }
+    return new Response('{"sessions":[]}', { status: 200 });
+  };
+  globalThis.setTimeout = (callback, delay) => {
+    delays.push(delay);
+    queueMicrotask(callback);
+    return 0;
+  };
+
+  try {
+    assert.deepEqual(await fetchFeed("https://feed.example", { maxDelayMs: 250 }), { sessions: [] });
+    assert.deepEqual(delays, [250]);
+    assert.equal(failedResponse.bodyUsed, true);
+  } finally {
+    globalThis.fetch = originalFetch;
+    globalThis.setTimeout = originalSetTimeout;
+  }
+});
+
+test("does not retry non-retryable responses", async () => {
+  const originalFetch = globalThis.fetch;
+  let calls = 0;
+  let failedResponse;
+  globalThis.fetch = async () => {
+    calls++;
+    failedResponse = new Response("unauthorized", { status: 401 });
+    return failedResponse;
   };
 
   try {
     await assert.rejects(fetchFeed("https://feed.example"), /HTTP 401/);
     assert.equal(calls, 1);
+    assert.equal(failedResponse.bodyUsed, true);
   } finally {
     globalThis.fetch = originalFetch;
   }

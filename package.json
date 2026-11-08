@@ -6,7 +6,7 @@
   "engines": { "node": ">=22" },
   "scripts": {
     "lint": "node scripts/lint.mjs",
-    "test": "node --test "test/*.test.mjs"",
+    "test": "node --test",
     "contract": "node scripts/contract.mjs",
     "mock": "node mock/server.mjs"
   }

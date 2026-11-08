@@ -1,5 +1,5 @@
 {
   "fixture": "sessionize-v1",
-  "mode": "tls-expired",
+  "mode": "ok",
   "failFirst": 0
 }
